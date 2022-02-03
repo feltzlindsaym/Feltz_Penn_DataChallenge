@@ -1,6 +1,6 @@
 # Feltz_Penn_DataChallenge
 
-Attached, please find my Jupyter Notebook containing the code for the predictive model. Notebook is titlted: Feltz_PI_DataChallange.ipynb
+Attached, please find my Jupyter Notebook containing the code for the predictive model. Notebook is titled: Feltz_PI_DataChallange.ipynb
 
 Below are answers to several of the question prompts:
 
